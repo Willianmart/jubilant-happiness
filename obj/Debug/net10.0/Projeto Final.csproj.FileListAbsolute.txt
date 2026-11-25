@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\bin\Debug\net10.0\Projeto Final.exe
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\bin\Debug\net10.0\Projeto Final.deps.json
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\bin\Debug\net10.0\Projeto Final.runtimeconfig.json
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\bin\Debug\net10.0\Projeto Final.dll
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\bin\Debug\net10.0\Projeto Final.pdb
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.dll
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\refint\Projeto Final.dll
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.pdb
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\Projeto Final.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Fotos\Documentos\Unoesc\Projeto Final Estrutura de dados\Projeto Final\obj\Debug\net10.0\ref\Projeto Final.dll
